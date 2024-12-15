@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on prediction models for cardiac arrhythmias.
 - 📫 How to reach me: email rajatjhanjee5@gmail.com
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I am practicing Cardiologist
+- ⚡ Fun fact: I am practicing Cardiologist/Electrophysiologist
 
 <!---
 rjhanjee/rjhanjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
